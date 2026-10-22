@@ -28,26 +28,14 @@ A catalog of AI agents for bug bounty, pentesting and red-team work. It covers r
 
 ---
 
-## Open-source contributions
+## Contributed to
 
-| Project | Contribution |
-|---|---|
-| [**curl**](https://github.com/curl/curl) | TLS security in the wolfSSL backend: [public-key pinning](https://github.com/curl/curl/pull/23516), [peer-certificate enforcement](https://github.com/curl/curl/pull/23503). Also the `-J` / Content-Disposition [file-truncation fix](https://github.com/curl/curl/pull/23501) |
-| [**Centreon**](https://github.com/centreon/centreon) | Security docs on [SSL peer-verification behavior](https://github.com/centreon/centreon/pull/11155), plus MCP server tools for metrics, timelines and on-demand checks |
-| [**SysWarden**](https://github.com/duggytuxy/syswarden) | [Security audit report](https://github.com/duggytuxy/syswarden/pull/14) for the Linux host-security orchestrator |
-| [**Quarry VRC**](https://github.com/skraft9/quarry-vrc) | Vulnerability research console: [HackerOne GraphQL integration](https://github.com/skraft9/quarry-vrc/pull/7) (invites, collabs, bounty splits), a [Burp/Caido screenshot tool](https://github.com/skraft9/quarry-vrc/pull/6) and a [regression retest queue](https://github.com/skraft9/quarry-vrc/pull/33) |
-
----
-
-## Focus
-
-```yaml
-offense:  web & API security, auth/authz flaws, SSRF, business logic, TLS
-research: bug bounty (HackerOne, Bugcrowd), responsible disclosure
-building: AI agents & MCP tooling for security workflows
-stack:    Python, Bash, C, TypeScript, Docker, Linux
-tools:    Burp Suite, Caido, Kali, nuclei, ffuf
-```
+<p>
+  <a href="https://github.com/curl/curl"><img src="https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white" /></a>
+  <a href="https://github.com/centreon/centreon"><img src="https://img.shields.io/badge/Centreon-10069F?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/duggytuxy/syswarden"><img src="https://img.shields.io/badge/SysWarden-0d1117?style=for-the-badge&logo=linux&logoColor=white" /></a>
+  <a href="https://github.com/skraft9/quarry-vrc"><img src="https://img.shields.io/badge/Quarry_VRC-0d1117?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
+</p>
 
 ---
 
